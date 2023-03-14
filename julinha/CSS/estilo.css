@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    font-family: Arial;
+   
+}
+
+header{
+    background-color: rgb(253, 211, 163);
+    width: 100%;
+    justify-content: center;
+    color: rgb(221, 102, 47);
+    padding: 15px;
+}
+
+h4{
+    background-color: rgb(253, 211, 163);
+    color: rgb(253, 110, 44);
+    text-align: left;
+}
+
+footer{
+    background-color: rgb(253, 110, 44);
+    color: #fff;
+    padding: 20px;
+}
+
+footer li{
+    list-style: none;
+}
+
+.container{
+    margin-top: 40px;
+    border: 3px solid rgb(221, 102, 47);
+    padding: 13px;
+    border-radius: 15px;
+    width:40%
+    
+}
+
+.titulo p {
+    margin-left: 10px;
+    color: rgb(206, 89, 36);
+    padding: 4px;
+}
+
+.titulo {
+    border: 3px solid #faa881;;
+    border-radius: 5px;
+    background-color: #faa881;;
+    margin-bottom: 10px;
+    border-bottom: 4px;
+}
+
+
+
+.container input{
+    border: 2px solid rgb(221, 102, 47);
+    border-radius: 15px;
+    width: 100%;
+    padding: 6px;
+    margin-block-end: 15px;
+}
+
+.container button{
+    border: 2px solid rgb(221, 102, 47);
+    border-radius: 10px;
+    background-color: rgb(250, 168, 129);
+    padding: 8px;
+    color:rgb(221, 102, 47)
+}
+
+.resultado {
+    border: 3px solid rgb(221, 102, 47);
+    padding: 13px;
+    margin: auto;
+    width: 40%;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+.resultado header {
+    background-color: #faa881;
+    width: 100%;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 3px;
+    color: rgb(221, 102, 47);
+}
+
+.resultado p {
+    margin-left: 10px;
+}
+
+.historico {
+    border: 2px solid rgb(221, 102, 47);
+    border-radius: 15px;
+    width: 100%;
+    padding: 60px;
+    margin-block-end: 10px;
+}
+
+.input-result {
+    margin-top: 10px;
+    background-color:#faa881 ;
+}
